@@ -1,0 +1,62 @@
+[
+    {
+        "uuid": 1,
+        "name": "name123",
+        "location": {
+            "city": "Kharkiv",
+            "street": "Pushkina",
+            "house": "150"
+        },
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+        "price": 100,
+        "availableFrom": 1649516839
+    },
+    {
+        "uuid": 2,
+        "name": "name123",
+        "location": {
+            "city": "Kharkiv",
+            "street": "Pushkina",
+            "house": "150"
+        },
+        "image": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/87616830.jpg?k=d3190f350292713118958a4cbf9d82d44222d6cd6db03014bb248d904c623946&o=",
+        "price": 100,
+        "availableFrom": 1649516839
+    },
+    {
+        "uuid": 3,
+        "name": "name123",
+        "location": {
+            "city": "Kharkiv",
+            "street": "Pushkina",
+            "house": "150"
+        },
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+        "price": 100,
+        "availableFrom": 1649516839
+    },
+    {
+        "uuid": 4,
+        "name": "name123",
+        "location": {
+            "city": "Kharkiv",
+            "street": "Pushkina",
+            "house": "150"
+        },
+        "image": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/87616830.jpg?k=d3190f350292713118958a4cbf9d82d44222d6cd6db03014bb248d904c623946&o=",
+        "price": 100,
+        "availableFrom": 1649516839
+    },
+    {
+        "uuid": 5,
+        "name": "name123",
+        "location": {
+            "city": "Kharkiv",
+            "street": "Pushkina",
+            "house": "150"
+        },
+        "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+        "price": 100,
+        "availableFrom": 1649516839
+    }
+]
